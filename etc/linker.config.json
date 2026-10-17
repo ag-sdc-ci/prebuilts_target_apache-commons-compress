@@ -1,0 +1,9 @@
+{
+	"provideLibs": [	
+		    "libdummy_ext_apache_commons_compress-x86_64-v2.so",
+		    "libdummy_ext_apache_commons_compress.so",
+		    "libdummy_shared_apache-commons-compress-x86_64-v2.so",
+		    "libdummy_shared_apache-commons-compress.so"
+	],
+	"visible": true
+}
